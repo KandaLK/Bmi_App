@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907815545711-n2ter8p80n0tvv071p5t16rl0f6sn8p9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907815545711-n2ter8p80n0tvv071p5t16rl0f6sn8p9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9we4jkk2nDriEBFQb0b7zrfNl3m5F49E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907815545711</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mybmi</string>
+	<key>PROJECT_ID</key>
+	<string>bmi-calculator-auth-users</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bmi-calculator-auth-users.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907815545711:ios:9186c84852628937bc969a</string>
+</dict>
+</plist>
